@@ -1,0 +1,17 @@
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\bin\Debug\net6.0\Basic-Structure.exe
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\bin\Debug\net6.0\Basic-Structure.deps.json
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\bin\Debug\net6.0\Basic-Structure.runtimeconfig.json
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\bin\Debug\net6.0\Basic-Structure.dll
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\bin\Debug\net6.0\Basic-Structure.pdb
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\bin\Debug\net6.0\Impart.dll
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.csproj.AssemblyReference.cache
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.AssemblyInfoInputs.cache
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.AssemblyInfo.cs
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.csproj.CoreCompileInputs.cache
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.csproj.CopyComplete
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.dll
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\refint\Basic-Structure.dll
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.pdb
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\Basic-Structure.genruntimeconfig.cache
+C:\Users\pixil\Desktop\Impart-Examples\Basic-Structure\obj\Debug\net6.0\ref\Basic-Structure.dll

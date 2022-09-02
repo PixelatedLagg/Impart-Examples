@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jgpG6H3CuN8w80pufRBM6Saq6zqI1gUdPO38JGu7I+ZhSc9UmkFgVYOJaqFpV3EHxHLD5NdMmAgjNtDrSa98qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pixil\\Desktop\\Impart-Examples\\Basic-Structure\\Basic-Structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pixil\\.nuget\\packages\\impart\\2.0.7\\impart.2.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
